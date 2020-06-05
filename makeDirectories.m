@@ -1,0 +1,3 @@
+function makeDirectories
+
+mkdir(A)
